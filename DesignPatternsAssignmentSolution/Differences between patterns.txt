@@ -1,0 +1,7 @@
+Discussion to clarify differences between patterns such as:
+ - builder vs abstract factory
+ - strategy vs template
+ - strategy vs composite
+ - strategy vs state, etc.
+
+Explanation of behavioral vs structural patterns.
